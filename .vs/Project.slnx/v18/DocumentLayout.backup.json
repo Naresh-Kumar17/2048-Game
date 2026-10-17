@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2048-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\ui.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\ui.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\logic.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\logic.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\data.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\data.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\input.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\input.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|F:\\2048-Game\\src\\macros.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{394E813D-CA8E-4736-A64D-87802B626D7D}|Project.vcxproj|solutionrelative:src\\macros.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.asm",
+              "DocumentMoniker": "F:\\2048-Game\\src\\input.asm",
+              "RelativeDocumentMoniker": "src\\input.asm",
+              "ToolTip": "F:\\2048-Game\\src\\input.asm",
+              "RelativeToolTip": "src\\input.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:48:23.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logic.asm",
+              "DocumentMoniker": "F:\\2048-Game\\src\\logic.asm",
+              "RelativeDocumentMoniker": "src\\logic.asm",
+              "ToolTip": "F:\\2048-Game\\src\\logic.asm",
+              "RelativeToolTip": "src\\logic.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:48:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ui.asm",
+              "DocumentMoniker": "F:\\2048-Game\\src\\ui.asm",
+              "RelativeDocumentMoniker": "src\\ui.asm",
+              "ToolTip": "F:\\2048-Game\\src\\ui.asm",
+              "RelativeToolTip": "src\\ui.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:47:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.asm",
+              "DocumentMoniker": "F:\\2048-Game\\src\\main.asm",
+              "RelativeDocumentMoniker": "src\\main.asm",
+              "ToolTip": "F:\\2048-Game\\src\\main.asm",
+              "RelativeToolTip": "src\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:47:42.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.asm",
+              "DocumentMoniker": "F:\\2048-Game\\src\\data.asm",
+              "RelativeDocumentMoniker": "src\\data.asm",
+              "ToolTip": "F:\\2048-Game\\src\\data.asm",
+              "RelativeToolTip": "src\\data.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:47:30.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "macros.inc",
+              "DocumentMoniker": "F:\\2048-Game\\src\\macros.inc",
+              "RelativeDocumentMoniker": "src\\macros.inc",
+              "ToolTip": "F:\\2048-Game\\src\\macros.inc",
+              "RelativeToolTip": "src\\macros.inc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-17T21:46:54.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
