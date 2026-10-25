@@ -156,12 +156,15 @@
     </MASM>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="include\module_additions.inc" />
     <None Include="src\data.asm" />
+    <MASM Include="docs\test_spawn.asm" />
+    <MASM Include="feature\spawn.asm" />
     <MASM Include="src\input.asm">
-      <FileType>Document</FileType>
+      <FileType>MASM</FileType>
     </MASM>
     <MASM Include="src\logic.asm">
-      <FileType>Document</FileType>
+      <FileType>MASM</FileType>
     </MASM>
     <None Include="src\macros.inc" />
     <MASM Include="src\main.asm">
@@ -172,7 +175,7 @@
       <FileType>Document</FileType>
     </None>
     <MASM Include="src\ui.asm">
-      <FileType>Document</FileType>
+      <FileType>MASM</FileType>
     </MASM>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
