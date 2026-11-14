@@ -10,7 +10,7 @@
 ; Board is a flat row-major DWORD array: cell = row*N + col.
 ; ============================================================
 INCLUDE Irvine32.inc
-INCLUDE macros.inc
+INCLUDE game_macros.inc
 INCLUDE module.inc
 
 PUBLIC InitRandom, CountEmpty, FindNthEmpty, SpawnTile
