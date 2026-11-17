@@ -7,6 +7,16 @@ rem    test.bat board | slideline | moveboard | spawn | state | ui
 rem Change IRVINE below if your Irvine library is somewhere else.
 rem ============================================================
 set IRVINE=C:\Irvine
+set VCVARS=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Auxiliary\Build\vcvars32.bat
+where ml >nul 2>nul
+if errorlevel 1 (
+    if exist "%VCVARS%" (
+        call "%VCVARS%"
+    ) else (
+        echo Cannot find Visual Studio tools. Edit VCVARS at the top of this file.
+        exit /b 1
+    )
+)
 set T=%1
 set FILES=
 if "%T%"=="board"     set FILES=..\tests\test_board.asm ..\src\logic.asm

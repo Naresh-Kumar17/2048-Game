@@ -1,0 +1,16 @@
+LIBRARY game2048
+EXPORTS
+    Game_Init
+    Game_New
+    Game_Move
+    Game_Undo
+    Game_Restart
+    Game_Save
+    Game_Cell
+    Game_Size
+    Game_Score
+    Game_Best
+    Game_Target
+    Game_CanUndo
+    Game_IsOver
+    Game_CheckWin
