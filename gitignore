@@ -1,0 +1,36 @@
+# ---- build output ----
+build/
+build_dll/
+build_test_*/
+b2/
+Debug/
+Release/
+x64/
+Project/Debug/
+
+# ---- Visual Studio / IDE ----
+.vs/
+*.user
+*.suo
+*.tlog
+*.log
+
+# ---- compiled and generated files ----
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.res
+*.pyc
+__pycache__/
+
+# ---- runtime data ----
+best2048.dat
+
+# ---- scratch files ----
+hello.*
+*.zip
